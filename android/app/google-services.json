@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "633010889799",
+    "project_id": "infosec4tc-f40d4",
+    "storage_bucket": "infosec4tc-f40d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633010889799:android:f31519b388cbdc5ed3fd62",
+        "android_client_info": {
+          "package_name": "com.infosec4tc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633010889799-2jj3a32ua0gtbqgq9sg1cnh8n4u1o4qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infosec4tc",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "633010889799-l7f6nabh6flma1f6edhkkekf5sb339rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infosec4tc",
+            "certificate_hash": "8ef0fc08c65fa38a28f24d8213a044a85c04ca53"
+          }
+        },
+        {
+          "client_id": "633010889799-oddf3qqd5ab2d97u6mrp52o3eb5cobtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infosec4tc",
+            "certificate_hash": "92d723a4ae3196278998e0233df25db903cb4f96"
+          }
+        },
+        {
+          "client_id": "633010889799-05b5nolqbe7h2qitulkqbdn0ef39rh7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUH6IEOdBbOHXHomiS8oRvEkEhE2eC2pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633010889799-05b5nolqbe7h2qitulkqbdn0ef39rh7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633010889799-0k65n0t6ob4l7ci5nat5h5gh6an9o1v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infosec4tc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
